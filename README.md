@@ -1,6 +1,6 @@
 
 
-<p>The source code for Odyssey TRX proect.</p>
+<p>The source code for Odyssey TRX project.</p>
 
 <p>Was compiled with Altera Quartus II 13.1 Web Edition for EP4CE22F17.</p>
 
