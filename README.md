@@ -6,8 +6,8 @@
 
 <p>For changing IP-address edit the ethernet.v 100-103&#39;s lines. Second receiver will IP + 1.</p>
 
-<p>For programming the board use Altera Quartus Programmer (185Mb) https://cloud.mail.ru/public/FnG7/upFZCZNMT<br />
-and Altera Byte Blaster hardware http://www.aliexpress.com/wholesale?catId=0&amp;initiative_id=SB_20160110085258&amp;SearchText=usb+blaster</p>
+<p>For programming the board use <a href="https://drive.google.com/file/d/0BzuiSb2tJSbzZFNFWmpxTUFkUHc/view?usp=sharing" target="_blank" title="Altera Quartus Programmer ">Altera Quartus Programmer </a>(185Mb).<br />
+and <a href="http://www.aliexpress.com/wholesale?catId=0&amp;initiative_id=SB_20160110085258&amp;SearchText=usb+blaster" target="_blank" title="Altera Byte Blaster hardware ">Altera Byte Blaster hardware </a></p>
 
 <p>Version history:<br />
 1.0.0&nbsp;&nbsp; &nbsp;&ndash; 11.08.15 - First base version<br />
