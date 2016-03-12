@@ -18,4 +18,6 @@
 1.2.0 &ndash; 26.10.15 - openHPSDR protocol is supported<br />
 1.2.1 &ndash; 28.10.15 - openHPSDR protocol bug fixes, SNDP support has been removed<br />
 1.2.2 &ndash; 19.11.15 &ndash; was added stereo output in Headphones<br />
-1.3.0 &ndash; 6.12.15 - &nbsp;was added the second independed receiver &nbsp;</p>
+1.3.0 &ndash; 6.12.15 - &nbsp;was added the second independed receiver <br />
+1.3.1 &ndash; 12.03.16 - &nbsp;CW and SSB output level balanced, Demo mode blink indication added
+</p>
