@@ -23,5 +23,6 @@
 1.3.0 &ndash; 6.12.15 - &nbsp;was added the second independed receiver <br />
 1.3.1 &ndash; 12.03.16 - &nbsp;CW and SSB output level balanced, Demo mode blink indication added<br />
 1.3.2 &ndash; 26.04.16 - &nbsp;Sound and TX buffer were enlarged twice and combined. The self-monitoring in SSB mode doesn't work now.<br />
-1.3.3 &ndash; 06.06.16 - &nbsp;Possible to change IP and MAC adress trough OKM 1.1 or higher 
+1.3.3 &ndash; 06.06.16 - &nbsp;Possible to change IP and MAC adress trough OKM 1.1 or higher <br />
+1.3.4 &ndash; 25.07.16 - &nbsp; Bug-fix, critical error with PTT mode <br />
 </p>
