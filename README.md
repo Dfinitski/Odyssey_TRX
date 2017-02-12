@@ -27,3 +27,5 @@
 1.3.4 &ndash; 25.07.16 - &nbsp; Bug-fix, critical error with PTT mode <br />
 1.3.5 &ndash; 19.09.16 - &nbsp; numerous changes for keying, second receiver only up to 192k <br />
 </p>
+<p>11.02.17 - Odyssey's board sources and components list are uploaded</p>
+<p> Use Sprint Layout 5.0 for .lay format opening and LibreOffice Writer for .odt format opening.</p>
